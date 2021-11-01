@@ -22,7 +22,7 @@
 <foaf:workInfoHomepage rdf:resource="https://bs.dila.edu.tw/%e5%b0%88%e4%bb%bb%e6%95%99%e5%b8%ab/"/>
 <foaf:schoolHomepage rdf:resource="https://www.ntust.edu.tw/"/>
 <foaf:knows>
-<foaf:Person>
+<foaf:Person rdf:about="https://raw.githubusercontent.com/jenjouhung/FOAF/main/joey.rdf#me">
 <foaf:name>Qianni Hung</foaf:name>
 <foaf:mbox_sha1sum>90e41bc6862b227825dde940120c42167f6993e3</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
