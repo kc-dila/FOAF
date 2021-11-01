@@ -1,0 +1,29 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>振洲 洪</foaf:name>
+<foaf:title>Dr</foaf:title>
+<foaf:givenname>振洲</foaf:givenname>
+<foaf:family_name>洪</foaf:family_name>
+<foaf:nick>Joey</foaf:nick>
+<foaf:mbox_sha1sum>71034b35fbf5087f6711fdd18d9524b1c4281ff0</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="http://joeyhung.info"/>
+<foaf:phone rdf:resource="tel:+886987187914"/>
+<foaf:workplaceHomepage rdf:resource="http://www.dila.edu.tw"/>
+<foaf:workInfoHomepage rdf:resource="https://bs.dila.edu.tw/%e5%b0%88%e4%bb%bb%e6%95%99%e5%b8%ab/"/>
+<foaf:schoolHomepage rdf:resource="https://www.ntust.edu.tw/"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Qianni Hung</foaf:name>
+<foaf:mbox_sha1sum>90e41bc6862b227825dde940120c42167f6993e3</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
+  
