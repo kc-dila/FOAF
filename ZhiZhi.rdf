@@ -1,0 +1,21 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>XianZhi Shi</foaf:name>
+<foaf:title>Mrs</foaf:title>
+<foaf:givenname>XianZhi</foaf:givenname>
+<foaf:family_name>Shi</foaf:family_name>
+<foaf:nick>ZhiZhi</foaf:nick>
+<foaf:mbox_sha1sum>097f35d07c7e1a6f2c2e814d4ce28058c3224ab2</foaf:mbox_sha1sum>
+<foaf:phone rdf:resource="tel:(+886)-965729364"/>
+<foaf:schoolHomepage rdf:resource="https://www.dila.edu.tw/"/></foaf:Person>
+</rdf:RDF>
