@@ -1,0 +1,22 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>寧 鍾</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>寧</foaf:givenname>
+<foaf:family_name>鍾</foaf:family_name>
+<foaf:nick>拉拉拉</foaf:nick>
+<foaf:mbox_sha1sum>cc1bd441125462920a02eae69e08b2d127821362</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="https://www.dila.edu.tw/students"/>
+<foaf:workplaceHomepage rdf:resource="https://www.dila.edu.tw/"/>
+<foaf:schoolHomepage rdf:resource="https://www.nsysu.edu.tw/"/></foaf:Person>
+</rdf:RDF>
